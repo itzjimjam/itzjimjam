@@ -12,7 +12,7 @@ I'm a **14-year-old Java & Python developer** with a passion for coding, learnin
 - 🔐 Preparing to dive into **cybersecurity**
 
 ---
-
+ 
 ## 🎯 Goals for 2025
 
 - Learn the basics of **Linux** and **server management**
